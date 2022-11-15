@@ -8,7 +8,7 @@ package Exercici2;
  * models like sports, family...) 
  */
 public class Car {
-	private static final String brand = "Renault";
+	private static final String BRAND = "Renault";
 	private static String model = "Megane";
 	private final double power;
 	
@@ -19,7 +19,7 @@ public class Car {
 	
 	//Getters 
 	public String getBrand() {
-		return brand;
+		return BRAND;
 	}
 	public String getModel() {
 		return model;
