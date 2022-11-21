@@ -13,6 +13,10 @@ public class App {
 		percussio1.playInstrument();
 		corda1.playInstrument();
 		
+		// I call the methods in static way
+		InstrumentsCorda.playInstruments();
+		InstrumentsPercussio.playInstruments();
+		InstrumentsCorda.playInstruments();
 		
 
 	}

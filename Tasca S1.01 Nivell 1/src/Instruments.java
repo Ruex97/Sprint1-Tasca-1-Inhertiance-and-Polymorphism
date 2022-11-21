@@ -27,6 +27,7 @@ public abstract class Instruments {
 	
 	// Class methods
 	public abstract void playInstrument();
+		
 
 
 }

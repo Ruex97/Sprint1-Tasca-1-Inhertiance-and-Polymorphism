@@ -2,7 +2,7 @@ package Exercici2;
 
 
 /* final means constant, static means equal for every object of the Class. I understand this exercice as I'm
- * working for a particular brand (so this atribute will never change) and we do cars of a particular model.
+ * working for a particular brand (so this attribute will never change) and we do cars of a particular model.
  * 
  * This model is the same for all cars we do, but we can choose the power (for instance having different
  * models like sports, family...) 

@@ -11,5 +11,9 @@ public class InstrumentsVent extends Instruments {
 	public void playInstrument() {
 		System.out.println("S'esta tocant un instrument de vent");
 	}
+	
+	public static void playInstruments() {
+		System.out.println("S'esta tocant un instrument de corda");
+	}
 
 }

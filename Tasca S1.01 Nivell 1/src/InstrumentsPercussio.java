@@ -11,6 +11,10 @@ public class InstrumentsPercussio extends Instruments{
 	public void playInstrument() {
 		System.out.println("S'esta tocant un instrument de percussio");
 	}
+	
+	public static void playInstruments() {
+		System.out.println("S'esta tocant un instrument de corda");
+	}
 
 
 }
